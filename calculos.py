@@ -6,3 +6,4 @@ print(calcular_total)
 def calcular_saldo(total):
     resultado = datos.presupuesto - total
     return resultado
+print()
